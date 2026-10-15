@@ -1,0 +1,5 @@
+claim_id,section,claim_or_question,evidence_type,evidence_file_or_reference,figure_table,experimental_or_numerical_conditions,quantitative_result,validation_scope,status
+C01,Introduction,[specific literature gap],verified literature,[full citation or DOI],,,,[scope],to_verify
+C02,Methods,[parameter calibration],experiment or literature,[source file],Table [n],[conditions],[measured or fitted result],[calibration range],needed
+C03,Results,[main finding],original numerical or experimental data,[source path],Fig. [n],[conditions],[verified finding],[validated range],needed
+C04,Conclusions,[supported contribution],linked evidence,[specific source],Fig. [n],[conditions],[confirmed summary],[scope],needed
